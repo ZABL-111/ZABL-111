@@ -1,5 +1,5 @@
 * FOR CONTACT :
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-ZABL-999-dimgray?style=flat-square&logo=github)](https://github.com/ZABL-111)<br> [![Facebook](https://img.shields.io/badge/Facebook-ZABL-blue?style=flat-square&logo=facebook)](https://www.facebook.com/oggyfire)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-ZABL999-dimgray?style=flat-square&logo=github)](https://github.com/ZABL-111)<br> [![Facebook](https://img.shields.io/badge/Facebook-ZABL-blue?style=flat-square&logo=facebook)](https://www.facebook.com/oggyfire)
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
 ___
 _HAMZA KHAN_
